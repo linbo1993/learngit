@@ -2,5 +2,5 @@ hello
 my name is linbo
 it's changed in dev branch
 122343434
-Creating a new branch is quick And simple
+Creating a new branch is quick & simple
 
