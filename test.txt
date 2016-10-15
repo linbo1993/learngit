@@ -3,3 +3,4 @@ my name is linbo
 it's changed in dev branch
 122343434
 merged success
+last merge test
